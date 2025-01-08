@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-### 🌟 Featured Projects:<br>- [GadgetHaven](https://github.com/yourusername/gadethaven) - A responsive e-commerce platform.<br>- [Restaurant Website](https://github.com/yourusername/restaurant-site) - A modern site built with React and Tailwind CSS.</p>
+### 🌟 Featured Projects:<br>- [GadgetHaven](https://github.com/shakil000/gadethaven) - A responsive e-commerce platform.<br>- [Restaurant Website](https://github.com/shakil000/restaurant-site) - A modern site built with React and Tailwind CSS.</p>
 
 ###
 
