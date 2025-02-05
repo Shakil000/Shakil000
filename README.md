@@ -1,5 +1,16 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/52276212?v=4" width="280" style="border-radius: 50%; border: 5px solid blue;" />
+  <svg width="290" height="290" viewBox="0 0 290 290" xmlns="http://www.w3.org/2000/svg">
+    <!-- Outer Circle Border -->
+    <circle cx="145" cy="145" r="140" stroke="blue" stroke-width="6" fill="none"/>
+    
+    <!-- Clip Path to Keep Image Circular -->
+    <clipPath id="circleMask">
+      <circle cx="145" cy="145" r="140"/>
+    </clipPath>
+    
+    <!-- Profile Image -->
+    <image href="https://avatars.githubusercontent.com/u/52276212?v=4" x="5" y="5" width="280" height="280" clip-path="url(#circleMask)"/>
+  </svg>
 </p>
 
 <h1 align="center">Hi, I'm Shakil Hasan Mithun! 👋</h1>
@@ -28,6 +39,8 @@
 📌 **[GadgetHaven](https://github.com/shakil000/gadethaven)** - A **responsive e-commerce platform**.  
 📌 **[Restaurant Website](https://github.com/shakil000/restaurant-site)** - A **modern site built with React and Tailwind CSS**.  
 📌 **[Employee Management System](https://github.com/shakil000/employee-management)** - A **comprehensive system for managing employees with role-based authentication**.  
+📌 **[Sport Shop Management System](https://github.com/shakil000/sport-shop-management)** - A **complete solution for sports shop inventory management**.  
+📌 **[Career Counseling](https://github.com/shakil000/career-counseling)** - A **platform to guide students in career choices**.  
 
 ---
 
@@ -60,7 +73,7 @@
   <a href="https://www.linkedin.com/in/mithun5934/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/Shakil.nhasan2">
