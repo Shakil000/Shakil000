@@ -31,6 +31,14 @@
 
 ---
 
+## 📊 GitHub Contributions  
+
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="GitHub Contributions Streak" />
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shakil000&show_icons=true&theme=radical&count_private=true" height="165"/>
@@ -51,5 +59,3 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
-
-Let me know if you'd like any tweaks! 🚀
