@@ -1,16 +1,5 @@
 <p align="center">
-  <svg width="290" height="290" viewBox="0 0 290 290" xmlns="http://www.w3.org/2000/svg">
-    <!-- Outer Circle Border -->
-    <circle cx="145" cy="145" r="140" stroke="blue" stroke-width="6" fill="none"/>
-    
-    <!-- Clip Path to Keep Image Circular -->
-    <clipPath id="circleMask">
-      <circle cx="145" cy="145" r="140"/>
-    </clipPath>
-    
-    <!-- Profile Image -->
-    <image href="https://avatars.githubusercontent.com/u/52276212?v=4" x="5" y="5" width="280" height="280" clip-path="url(#circleMask)"/>
-  </svg>
+  <img src="https://avatars.githubusercontent.com/u/52276212?v=4" width="280" style="border-radius: 50%; border: 5px solid blue;" />
 </p>
 
 <h1 align="center">Hi, I'm Shakil Hasan Mithun! 👋</h1>
