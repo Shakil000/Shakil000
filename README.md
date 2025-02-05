@@ -7,12 +7,16 @@
 ---
 
 ## 🚀 About Me  
-<img align="center" height="188" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400"/>
+</p>
 
 - 🌱 Junior Software Engineer specializing in **MERN Stack**  
 - 💻 Currently building projects in **React** and **Tailwind CSS**  
 - 🚀 Passionate about **creating scalable, responsive applications**  
-- I am a Web Developer specializing in **JavaScript, React.js, and Tailwind CSS**. My primary focus is building **full-stack applications with React.js**, but I am also proficient in backend development using **Express.js and MongoDB**. I am passionate about crafting **seamless, visually appealing web applications** that balance design and functionality. While I don’t know everything, I embrace every day as an opportunity to learn and grow.  
+- I am a Web Developer specializing in **JavaScript, React.js, and Tailwind CSS**. My primary focus is building **full-stack applications with React.js**, but I am also proficient in backend development using **Express.js and MongoDB**.  
+- I am passionate about crafting **seamless, visually appealing web applications** that balance design and functionality. While I don’t know everything, I embrace every day as an opportunity to learn and grow.  
 
 ---
 
