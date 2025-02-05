@@ -1,36 +1,51 @@
-<h1 align="left">Hi, I'm Shakil Hasan Mithun! 👋</h1>
+<h1 align="center">Hi, I'm Shakil Hasan Mithun! 👋</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&width=435&lines=Junior+MERN+Stack+Developer;Building+Scalable+Web+Apps;Passionate+About+React+%26+Tailwind+CSS" alt="Typing SVG" />
+</p>
 
-<h2 align="left">About me</h2>
-###
+---
 
-<img align="right" height="188" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
+## 🚀 About Me  
+<img align="right" height="188" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
 
-###
+- 🌱 Junior Software Engineer specializing in **MERN Stack**  
+- 💻 Currently building projects in **React** and **Tailwind CSS**  
+- 🚀 Passionate about **creating scalable, responsive applications**  
 
-<p align="left">🌱 Junior Software Engineer specializing in the **MERN Stack**  <br>💻 Currently building projects in **React** and **Tailwind CSS**  <br>🚀 Passionate about creating scalable, responsive applications</p>
+---
 
-###
+## 🌟 Featured Projects  
+📌 **[GadgetHaven](https://github.com/shakil000/gadethaven)** - A **responsive e-commerce platform**.  
+📌 **[Restaurant Website](https://github.com/shakil000/restaurant-site)** - A **modern site built with React and Tailwind CSS**.  
 
-<p align="left">
-### 🌟 Featured Projects:<br>- [GadgetHaven](https://github.com/shakil000/gadethaven) - A responsive e-commerce platform.<br>- [Restaurant Website](https://github.com/shakil000/restaurant-site) - A modern site built with React and Tailwind CSS.</p>
+---
 
-###
+## 🛠 Tech Stack  
 
-<h2 align="left">I code with</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mongodb,git,github,vscode" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakil000&show_icons=true&theme=radical&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakil000&layout=compact&theme=radical" height="165"/>
+</p>
 
-###
+---
+
+## 🤝 Let's Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/shakilhasanmithun/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
