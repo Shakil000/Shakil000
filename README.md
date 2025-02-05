@@ -28,7 +28,7 @@
 📌 **[GadgetHaven](https://github.com/shakil000/gadethaven)** - A **responsive e-commerce platform**.  
 📌 **[Restaurant Website](https://github.com/shakil000/restaurant-site)** - A **modern site built with React and Tailwind CSS**.  
 📌 **[Employee Management System](https://github.com/shakil000/employee-management)** - A **comprehensive system for managing employees with role-based authentication**.  
-📌 **[Sport Shop Management System](https://github.com/shakil000/sport-shop-management)** - A **complete solution for sports shop inventory management**.  
+📌 **[Sport Shop Management System](https://github.com/shakil000/sport-shop-management)** - A **complete solution for sports shop management**.  
 📌 **[Career Counseling](https://github.com/shakil000/career-counseling)** - A **platform to guide students in career choices**.  
 
 ---
