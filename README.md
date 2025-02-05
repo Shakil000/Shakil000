@@ -12,12 +12,14 @@
 - 🌱 Junior Software Engineer specializing in **MERN Stack**  
 - 💻 Currently building projects in **React** and **Tailwind CSS**  
 - 🚀 Passionate about **creating scalable, responsive applications**  
+- I am a Web Developer specializing in **JavaScript, React.js, and Tailwind CSS**. My primary focus is building **full-stack applications with React.js**, but I am also proficient in backend development using **Express.js and MongoDB**. I am passionate about crafting **seamless, visually appealing web applications** that balance design and functionality. While I don’t know everything, I embrace every day as an opportunity to learn and grow.  
 
 ---
 
 ## 🌟 Featured Projects  
 📌 **[GadgetHaven](https://github.com/shakil000/gadethaven)** - A **responsive e-commerce platform**.  
 📌 **[Restaurant Website](https://github.com/shakil000/restaurant-site)** - A **modern site built with React and Tailwind CSS**.  
+📌 **[Employee Management System](https://github.com/shakil000/employee-management)** - A **comprehensive system for managing employees with role-based authentication**.  
 
 ---
 
@@ -42,10 +44,12 @@
   <a href="https://www.linkedin.com/in/shakilhasanmithun/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="racer.shakil111@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourtwitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.facebook.com/yourfacebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+
+Let me know if you'd like any tweaks! 🚀
