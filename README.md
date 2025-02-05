@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co.com/8npn311B" width="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/52276212?v=4" width="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Shakil Hasan Mithun! 👋</h1>
