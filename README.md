@@ -49,7 +49,7 @@
 
 ## 🤝 Let's Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/shakilhasanmithun/">
+  <a href="https://www.linkedin.com/in/mithun5934/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="racer.shakil111@gmail.com">
